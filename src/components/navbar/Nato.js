@@ -32,7 +32,7 @@ const Nato = () => {
             
             <nav className='navbar'>
             <div style={{marginRight:"550px"}} >
-                <img src={logo} style={{display:"block", width:"150px"}} ></img>
+                <img src={logo} style={{display:"block", width:"100px"}} ></img>
             </div>
               <div>
                 {/*  All Navbar menu*/}

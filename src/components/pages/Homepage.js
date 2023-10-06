@@ -17,7 +17,7 @@ function Homepage() {
     <div >
    
     <div><img src={img1} class="img-fluid" alt=""></img></div>
-    <div style={{display:"block",width:"500px",height:"500px", marginLeft:"700px", marginTop:"-400px"}}><img src={img2} class="img-fluid" alt=""></img></div>
+    <div style={{display:"block",width:"500px",height:"500px", marginLeft:"550px", marginTop:"-400px"}}><img src={img2} class="img-fluid" alt=""></img></div>
     </div>
 
     
